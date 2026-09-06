@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+**/venv/
+myenv/
+**/myenv/
+
+# Pickle files / large data artifacts
+*.pkl
+*.pickle
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
